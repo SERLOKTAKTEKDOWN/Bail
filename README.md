@@ -1,3 +1,5 @@
+![Preview Image](https://storage.netorare.codes/f/826860570.jpg)
+
 # Baileys - Typescript/Javascript WhatsApp Web API (Fixed by Ssa Teams)
 
 ### Important Note
